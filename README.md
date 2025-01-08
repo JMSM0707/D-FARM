@@ -31,7 +31,7 @@ Python3.9 dan yuqori va PIP o'rnatilganligiga ishonch hosil qiling.
 
 ## Konfiguratsiya
 
-- **tokens.txt:** tokens.txt: Siz faylni tokens.txt loyiha katalogida topasiz. tokens.txt unda skript formatiga mos keladigan ma'lumotlar mavjudligiga ishonch hosil qiling, aks holda skript ishlamaydi. Mana fayl formatlariga misollar:
+- **tokens.txt:** Siz faylni tokens.txt loyiha katalogida topasiz. tokens.txt unda skript formatiga mos keladigan ma'lumotlar mavjudligiga ishonch hosil qiling, aks holda skript ishlamaydi. Mana fayl formatlariga misollar:
 
   ```bash
     eyjxxxxx1
