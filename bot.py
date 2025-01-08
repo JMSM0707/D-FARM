@@ -8,7 +8,7 @@ from datetime import datetime
 from fake_useragent import FakeUserAgent
 import asyncio, time, json, base64, os, pytz
 
-wib = pytz.timezone('Asia/Jakarta')
+wib = pytz.timezone('Europe/Moscow')
 
 class DropAir:
     def __init__(self) -> None:
