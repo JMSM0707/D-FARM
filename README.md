@@ -39,8 +39,8 @@ Python3.9 dan yuqori va PIP o'rnatilganligiga ishonch hosil qiling.
   ```
 ## TOKEN OLISH UCHUN QO'LLANMA
 
-Token olish uchun, dropair.io saytiga kirasiz. Main bo'limida turgan holda, klaviaturadan F12 ni bosasiz. 
-Chiqqan oynadan "application" bo'limini topib, u yerdan "Cookies" bo'limiga kirasiz. U yerdan "http://dropair.io" bo'limiga bosasiz. U yerdan auth_token qatoridagi eyj... bilan boshlangan qatorni to'liq nusxalab olasiz.
+Token olish uchun, [DropAir](https://dropair.io) saytiga kirasiz. Main bo'limida turgan holda, klaviaturadan F12 ni bosasiz. 
+Chiqqan oynadan "application" bo'limini topib, u yerdan "Cookies" bo'limiga kirasiz. U yerdan [DropAir](https://dropair.io) bo'limiga bosasiz. U yerdan auth_token qatoridagi eyj... bilan boshlangan qatorni to'liq nusxalab olasiz.
 
 ## Ishga tushurish
 
