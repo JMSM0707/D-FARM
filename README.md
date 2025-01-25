@@ -1,4 +1,3 @@
-# D-FARM
 # DROPAIR BOT
 
 Bu yerda roʻyxatdan oʻting : [DropAir](https://dropair.io?ref=N5X824)
